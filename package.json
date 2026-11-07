@@ -1,9 +1,0 @@
-{
-  "name": "zvonilka",
-  "version": "3.0.0",
-  "description": "Мессенджер Звонилка: сообщения, звонки и уведомления по номеру телефона",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "ws": "^8.18.0", "web-push": "^3.6.7" },
-  "engines": { "node": ">=18" }
-}
